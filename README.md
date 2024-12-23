@@ -1,4 +1,4 @@
-# exam_grade_8
+# Ethio_Exam
 
 A new Flutter project.
 
